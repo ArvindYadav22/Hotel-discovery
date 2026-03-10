@@ -4,10 +4,6 @@ A modern, responsive hotel discovery web app built with React. Browse, search, a
 
 **[Live Demo](https://hotel-discovery-gamma.vercel.app/)**
 
-![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-7-CA4245?logo=react-router&logoColor=white)
-![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000?logo=vercel&logoColor=white)
-
 ---
 
 ## Features
