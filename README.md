@@ -4,7 +4,6 @@ A modern, responsive hotel discovery web app built with React. Browse, search, a
 
 **[Live Demo](https://hotel-discovery-gamma.vercel.app/)**
 
----
 
 ## Features
 
